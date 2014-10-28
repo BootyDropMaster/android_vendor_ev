@@ -8,6 +8,7 @@ add_lunch_combo ev_grouper-eng
 add_lunch_combo ev_hammerhead-eng
 add_lunch_combo ev_hercules-eng
 add_lunch_combo ev_inc-eng
+add_lunch_combo ev_infuse4g-eng
 add_lunch_combo ev_jewel-eng
 add_lunch_combo ev_jflte-eng
 add_lunch_combo ev_lexikon-eng
